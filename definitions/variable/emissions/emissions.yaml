@@ -294,6 +294,10 @@
       of {Secondary Fuel Level 1}
     unit: "{Level-2 Species}"
     tier: 3
+- Emissions|CO2|Energy|Supply|Liguids|Oil|Flaring:
+    description: Emissions of CO2 from flaring during production of oil
+    unit: Mt CO2/yr
+    tier: 4
 - Gross Emissions|CO2|Energy|Supply|{Secondary Fuel Level 2}:
     description: Gross emissions of carbon dioxide (CO2) for production of {Secondary Fuel Level 2},
       not accounting for removals from the atmosphere

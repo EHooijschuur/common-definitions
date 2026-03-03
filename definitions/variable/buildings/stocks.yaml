@@ -45,3 +45,9 @@
       thermal energy efficiency, for urban and rural residential buildings
     unit: W/m^2/K
     tier: 2
+
+- Building Stock|Residential|{Urban and Rural}|Households:
+    description: Number of households
+    unit: million households
+    tier: 2
+

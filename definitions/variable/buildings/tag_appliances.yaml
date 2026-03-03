@@ -28,4 +28,9 @@
         description: Air conditioners and temperature control ventilation systems
     - Cooling|Fan:
         description: Fans and small ventilation systems without temperature control
-    
+    - Entertainment|Television:
+        description: Televisions
+    - Entertainment|Computer:
+        description: Computers
+    - Refrigeration|Refrigerator:
+        description: Refrigerators

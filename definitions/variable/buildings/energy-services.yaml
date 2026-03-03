@@ -35,6 +35,21 @@
     unit: households
     tier: 2
 
+- Energy intensity|Residential|Appliances|Non-cooling appliances:
+    description: Energy use of appliances not falling under space cooling 
+    unit: MJ/househol
+    tier: 4
+
+- Energy intensity|Residential|Appliances|{Appliance}:
+    description: Energy use of appliance {Appliance}
+    unit: kWh/unit
+    tier: 4
+
+- Efficiency|Residential|Appliances|Air conditioning|Sales:
+    description: Energy use of air conditioning units sold
+    unit: W/W
+    tier: 4
+
 - Population|Appliance Access|{Appliance group}|{Urban and Rural}:
     description: Population with steady access to appliances per appliance
         category
@@ -46,3 +61,4 @@
         category
     unit: million
     tier: 2
+
